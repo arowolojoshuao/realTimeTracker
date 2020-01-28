@@ -1,0 +1,7 @@
+<resources>
+  <string name="app.name">Real Time Tracker</string>
+  <string name="title.activity.map.tracking">Map Route Tracking</string>
+  <string name="start.tracking">Start Tracking</string>
+  <string name="stop.tracking">Stop Tracking</string>
+  <string name="google.maps.key">HERE YOUR API KEY </string>
+</resources>
